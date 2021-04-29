@@ -9,5 +9,5 @@ This dataset includes the country distribution of research publications in the f
   * Scientometrics: Country distribution of the research publications of Scientometrics Journal to 2020.
 * IR: This information was retrieved from Scopus in 29 April 2021. It includes:
   * Field: Country distribution of the research publications about Information Retrieval from 1995 to 2003 (Search query: ("Information Retrieval") [ALL FIELDS]).
-  * IRJ: Country distribution of the research publications of Information Retrieval Journal from 1995 to 2003.
+  * IRJ: Country distribution of the research publications of Information Retrieval Journal from 1999 to 2003.
   * SIGIR: Country distribution of the research publications of the ACM SIGIR Forum from 1995 to 2003.
