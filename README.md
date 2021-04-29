@@ -1,7 +1,7 @@
 # HostAssociationBiasStudy
 A dataset including the distribution of research publications by country for journals about IR and LIS
 
-This dataset includes the country distribution of research publications in the fields of Information Retrieval (IR) and Library and Information Science (LIS) as well as of several journals related to the fields. It is composed of:
+This dataset includes the country distribution of research publications in the fields of Information Retrieval (IR) and Library and Information Science (LIS) as well as of several journals related to the fields. This set allows to study the effect of host associations and publishers on the country distribution of the research publications of scholarly journals. It is composed of:
 * LIS: This information was retrieved from Web of Science Core Collection in 15 March 2021. It includes:
   * Field: Country distribution of the research publications about Library and Information Science up to 2020  (Search query: (Library and Information Science) [SU]).
   * JASIST: Country distribution of the research publications of the Journal of the Association for Information Science and Technology up to 2020.
